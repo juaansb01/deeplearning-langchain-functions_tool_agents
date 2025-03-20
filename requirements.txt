@@ -7,7 +7,6 @@ urllib3==1.26.16
 tiktoken==0.5.1
 faiss-cpu==1.7.4
 pydantic==1.10.8
-#!pip install "langchain[docarray]"
 wikipedia==1.4.0
 langchain[docarray]==0.0.312
 panel==1.1.0
